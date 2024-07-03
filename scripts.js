@@ -10,6 +10,6 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     updateTimeAndDay();
-    setInterval(updateTimeAndDay, 60000); // Update every minute
+    setInterval(updateTimeAndDay, 60000);
 });
     
